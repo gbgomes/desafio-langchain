@@ -33,7 +33,7 @@ for k in ("OPENAI_API_KEY", "PGVECTOR_URL","PGVECTOR_COLLECTION"):
 
 # Define o caminho para o arquivo PDF, assumindo que ele está na raiz do projeto
 PDF_DIR = Path(__file__).parent.parent
-PDF_PATH = PDF_DIR / "LAMINA_28428129000114.pdf"
+PDF_PATH = PDF_DIR / "document.pdf"
 
 def ingest_pdf():
     """

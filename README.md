@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ### Passo 1: Ingestão do PDF
 
-Primeiro, execute o script de ingestão para processar o arquivo `LAMINA_28428129000114.pdf` (que deve estar na raiz do projeto) e popular o banco de dados.
+Primeiro, execute o script de ingestão para processar o arquivo `document.pdf` (que deve estar na raiz do projeto) e popular o banco de dados.
 
 ```bash
 python src/ingest.py

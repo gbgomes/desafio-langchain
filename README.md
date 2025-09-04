@@ -106,30 +106,12 @@ O terminal ficará aguardando sua pergunta.
 #### Exemplo de Uso
 
 ```
-Faça sua pergunta (ou 'sair' para encerrar): qual o investimento mínimo?
+Faça sua pergunta (ou 'sair' para encerrar): Qual o faturamento da Empresa SuperTechIABrazil?
 
-O investimento inicial mínimo para aplicar no fundo é de R$ 100,00 (cem reais).
+O faturamento da SuperTechIABrazil é de R$ 10.000.000,00.
 
 Faça sua pergunta (ou 'sair' para encerrar): sair
 ```
-
-```
-Exemplos de perguntas:
-
-Qual o CNPJ do fundo?
-Qual o nome do fundo?
-Qual é o objetivo principal do fundo?
-Quais são as taxas de administração e de performance cobradas?
-Qual o valor mínimo para o investimento inicial?
-Para que tipo de investidor este fundo é indicado?
-Quais são os principais fatores de risco deste investimento?
-Qual é o prazo de cotização para resgates?
-Em quantos dias o dinheiro é pago após um pedido de resgate?
-O fundo utiliza algum índice de referência (benchmark)? Qual?
-Como funciona a tributação sobre os ganhos?
-Quem é o gestor responsável pela carteira do fundo?
-```
-
 
 ## Reinicializando o Banco de Dados
 Caso você precise limpar completamente o banco de dados e começar do zero (por exemplo, para re-ingerir um novo PDF), você pode remover o volume de dados persistentes do Docker.
